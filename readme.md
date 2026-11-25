@@ -50,14 +50,13 @@ Browse the categories below to find available packages. Each download links dire
 - Some packages may require additional configuration or game data.
 - Compatibility may vary depending on hardware revision and PandoryDX version.
 - Always back up your existing installation before making modifications.
-- Copyrighted game assets and ROMs may not be included.
+- Copyrighted game assets and ROMs not be included.
 
 ## 🙏 Credits
 
 Thanks to the developers and contributors of PandoryDX and the original projects behind these packages.
 
 - [Team Pandory](<https://teampandory.com/>)
-- [PandoryTool](<https://github.com/TeamPandory/pandorytool>)
 
 ## ⚖️ Disclaimer
 
@@ -66,5 +65,3 @@ This repository is an independent collection of binary packages intended for pre
 All trademarks, game titles and associated intellectual property remain the property of their respective owners.
 
 Repository: [https://github.com/Poligraf/pandorydx-binaries](<https://github.com/Poligraf/pandorydx-binaries>)
-
-One technical note: These are normal GitHub `blob/main` links. They open the ZIP file's repository page, from which GitHub provides the download option.
