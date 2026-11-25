@@ -1,7 +1,3 @@
-Understood. You want proper GitHub Markdown links pointing directly to your repository files, not `/raw/` URLs, not ChatGPT-generated links, and not long URLs displayed as link text.
-
-I've also rewritten the introduction to sound more like a proper community-maintained arcade software collection.
-
 # PandoryDX Binaries
 
 A collection of additional games, emulators, applications and game engines for the PandoryDX arcade platform.
