@@ -27,18 +27,7 @@ Browse the categories below to find available packages. Each download links dire
 | --- | --- | --- |
 | Captain Claw | Captain Claw PC game port (needs claw.rez) | [Download ZIP](<https://github.com/Poligraf/pandorydx-binaries/blob/main/openclaw.zip>) |
 | Daphne / Hypseus | LaserDisc arcade emulator | [Download ZIP](<https://github.com/Poligraf/pandorydx-binaries/blob/main/daphne%20hypseus.zip>) |
-| Commander Genius | Commander Keen game engine 
-Needs
-Keen 1 – Version 1.33
-Keen 2 – Version 1.33
-Keen 3 – Version 1.33
-Keen 4 – Version 1.4 (EGA)
-Keen 5 – Version 1.4 (EGA)
-Keen 6 – Version 1.4 (EGA)
-Keen 6 Demo – Version 1.4 (EGA)
-Keen Dreams – Version 1.13 (EGA)
-
-| [Download ZIP](<https://github.com/Poligraf/pandorydx-binaries/blob/main/cgenius.zip>) |
+| Commander Genius | Commander Keen game engine **Required game data:**- Keen 1 — Version 1.33- Keen 2 — Version 1.33- Keen 3 — Version 1.33- Keen 4 — Version 1.4 (EGA)- Keen 5 — Version 1.4 (EGA)- Keen 6 — Version 1.4 (EGA)- Keen 6 Demo — Version 1.4 (EGA)- Keen Dreams — Version 1.13 (EGA)| [Download ZIP](<https://github.com/Poligraf/pandorydx-binaries/blob/main/cgenius.zip>) |
 | OpenBOR | Open Beats of Rage engine, including versions 6391 and 6297 | [Download ZIP](<https://github.com/Poligraf/pandorydx-binaries/blob/main/openborv2.zip>) |
 
 ### 🎯 Console Games
