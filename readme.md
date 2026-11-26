@@ -35,6 +35,8 @@ Browse the categories below to find available packages. Each download links dire
 | Game | Platform | Download |
 | --- | --- | --- |
 | International Superstar Soccer Deluxe (needs International Superstar Soccer Deluxe (USA).sfc) | SNES | [Download ZIP](<https://github.com/Poligraf/pandorydx-binaries/blob/main/issd.zip>) |
+| NHL94 (needs NHL 94.gen in roms folder (mandatory) and any hack in hacks folder (optional) Pressing player 1 and 2 start together opens up menu | Genesis | [Download ZIP](<https://github.com/Poligraf/pandorydx-binaries/blob/main/nhl94.zip>) |
+
 
 ## 📥 Installation
 
