@@ -18,6 +18,7 @@ Browse the categories below to find available packages. Each download links dire
 
 | Game | Description | Download |
 | --- | --- | --- |
+| Outrun | Outrun arcade game Cannonball port (needs Out Run Rev B unzipped in the roms folder) | [Download ZIP](<https://github.com/Poligraf/pandorydx-binaries/blob/main/outrun.zip>) |
 | The Simpsons | The Simpsons arcade game (needs simpsons.zip arcade game) | [Download ZIP](<https://github.com/Poligraf/pandorydx-binaries/blob/main/simpsons.zip>) |
 | Teenage Mutant Ninja Turtles | TMNT arcade game (needs tmnt.zip arcade game) | [Download ZIP](<https://github.com/Poligraf/pandorydx-binaries/blob/main/tmnt.zip>) |
 
